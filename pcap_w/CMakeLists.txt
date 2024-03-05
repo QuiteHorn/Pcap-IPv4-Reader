@@ -1,4 +1,4 @@
-﻿add_executable (pcap_w "pcap_w.cpp" "pcap_w.h" "packets_def.h" "Streams.cpp" "Streams.h" "Thread.cpp" "Thread.h")
+﻿add_executable (pcap_w "main.cpp" "pcap_w.h" "packets_def.h" "Streams.cpp" "Streams.h" "Thread.cpp" "Thread.h")
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET pcap_w PROPERTY CXX_STANDARD 20)
