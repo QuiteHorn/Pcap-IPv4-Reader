@@ -7,6 +7,8 @@ It prints unique threads and transfered bytes and then saves all the information
 
 Works only with IPv4 (more soon maybe...)
 
+__NpCap is needed!__
+
 Launching:
 ![scr2](https://github.com/QuiteHorn/Pcap-IPv4-Reader/assets/63408009/8461b643-c3c3-491c-8413-43a6c8dd4e64)
 
